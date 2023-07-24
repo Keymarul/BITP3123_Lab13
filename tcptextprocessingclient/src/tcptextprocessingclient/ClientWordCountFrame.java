@@ -11,7 +11,7 @@ import javax.swing.JPanel;
  * This class represent the GUI window for the client side TCP application.
  * It display the word count that is retrieved rom the server side.
  * 
- * @author Ng Wei Hen
+ * @author kamarul asmil
  *
  */
 public class ClientWordCountFrame extends JFrame {
